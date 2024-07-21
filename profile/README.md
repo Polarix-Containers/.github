@@ -1,4 +1,4 @@
-Blue OCI is a collection of minimal OCI containers. All of them are rebuilt daily, include hardened_malloc, and scanned for vulnerabilities.
+Blue OCI is a collection of OCI containers aiming to improve security over upstream builds. Our containers are rebuilt daily, include hardened_malloc, and scanned for vulnerabilities.
 
 We strive for maximum compatibility with upstream. Alpine and unprivileged users are used whenever possible.
 
