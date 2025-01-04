@@ -1,4 +1,4 @@
-# User Mappings
+# User Mapping
 
 | Container                | UID:GID          | Notes                                         |
 |--------------------------|------------------|-----------------------------------------------|
@@ -9,7 +9,7 @@
 | ownCloud Infinite Scale  | 3004:3004        |                                               |
 | Kanidm                   | 3005:3005        |                                               |
 | OpenEMR                  | 3006:3006        |                                               |
-| Paperless-ngx            | 3007:3007        |                                               |
+| Paperless-ngx            | 3007:3007        | ⚠️ UID cannot be changed by sysadmin           |
 | Redis                    | 3008:3008        |                                               |
 | Valkey                   | 3009:3009        |                                               |
 | Statping-ng              | 3010:3010        |                                               |
