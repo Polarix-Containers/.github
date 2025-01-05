@@ -7,7 +7,7 @@
 | Synapse                  | 200002:200002    |                                               |
 | Vaultwarden              | 200003:200003    |                                               |
 | ownCloud Infinite Scale  | 200004:200004    |                                               |
-| Paperless-ngx            | 200005:200005    | ⚠️ UID cannot be changed by sysadmin           |
+| Paperless-ngx            | 200005:200005    | ⚠️ UID cannot be changed without rebuilding   |
 | Gitea                    | 200006:200006    |                                               |
 | OpenEMR                  | 200007:200007    |                                               |
 | Statping-ng              | 200008:200008    |                                               |
