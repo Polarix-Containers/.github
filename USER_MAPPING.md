@@ -2,22 +2,21 @@
 
 | Container                | UID:GID          | Notes                                         |
 |--------------------------|------------------|-----------------------------------------------|
-| Synapse                  | 3000:3000        |                                               |
-| Vaultwarden              | 3001:3001        |                                               |
-| Gitea                    | 3002:3002        |                                               |
-| MariaDB                  | 3003:3003        |                                               |
-| ownCloud Infinite Scale  | 3004:3004        |                                               |
-| Kanidm                   | 3005:3005        |                                               |
-| OpenEMR                  | 3006:3006        |                                               |
-| Paperless-ngx            | 3007:3007        | ⚠️ UID cannot be changed by sysadmin           |
-| Redis                    | 3008:3008        |                                               |
-| Valkey                   | 3009:3009        |                                               |
-| Statping-ng              | 3010:3010        |                                               |
-| OAuth2 Proxy             | 3011:3011        |                                               |
-| Postgres                 | 70:70            | Upstream default - will change in the future. |
+| Synapse                  | 700000:700000    |                                               |
+| Vaultwarden              | 700001:700001    |                                               |
+| Gitea                    | 700002:700002    |                                               |
+| MariaDB/MariaDB UBI      | 700003:700003    |                                               |
+| ownCloud Infinite Scale  | 700004:700004    |                                               |
+| Kanidm                   | 700005:700005    |                                               |
+| OpenEMR                  | 700006:700006    |                                               |
+| Paperless-ngx            | 700007:700007    | ⚠️ UID cannot be changed by sysadmin           |
+| Redis                    | 700008:700008    |                                               |
+| Valkey                   | 700009:700009    |                                               |
+| Statping-ng              | 700010:700010    |                                               |
+| OAuth2 Proxy             | 700011:700011    |                                               |
+| Postgres                 | 700012:700012    |                                               |
 | NGINX Unprivileged       | 101:101          | Upstream default - will change in the future. |
 | Element                  | 101:101          | Inherited from NGINX Unprivileged.            |
-| MariaDB UBI              | 999:999          | Upstream default - will change in the future. |
 | acme.sh                  |                  | Privileged - upstream default.                |
 | NGINX                    |                  | Privileged - upstream default.                |
 | Nextcloud                |                  | Privileged - upstream default.                |
