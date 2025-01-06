@@ -8,4 +8,4 @@ Maintainers:
 - TommyTran732 - all containers
 - wj25czxj47bu6q - acme.sh
 
-User mapping table for container can be founded [here](https://github.com/Polarix-Containers/.github/blob/main/USER_MAPPING.md).
+User mapping table for containers can be founded [here](https://github.com/Polarix-Containers/.github/blob/main/USER_MAPPING.md).
