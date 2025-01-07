@@ -15,6 +15,7 @@
 | Valkey                   | 200010:200010    |                                               |
 | MariaDB/MariaDB UBI      | 200011:200011    |                                               |
 | Postgres                 | 200012:200012    |                                               |
+| Stirling-PDF             | 200013:200013    |                                               |
 | NGINX Unprivileged       | 101:101          | Upstream default - will change in the future. |
 | Element                  | 101:101          | Inherited from NGINX Unprivileged.            |
 | acme.sh                  |                  | Privileged - upstream default.                |
