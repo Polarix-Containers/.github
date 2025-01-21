@@ -21,5 +21,6 @@
 | acme.sh                  |                  | Privileged - upstream default.                |
 | NGINX                    |                  | Privileged - upstream default.                |
 | Nextcloud                |                  | Privileged - upstream default.                |
+| ntfy                     |                  | Privileged - upstream default.                |
 | hardened_malloc          |                  | Not meant to be run - Alpine default.         |
 
