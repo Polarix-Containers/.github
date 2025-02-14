@@ -7,5 +7,6 @@ Our number one priority is vulnerability patching. We will ship the latest versi
 Maintainers:
 - TommyTran732 - all containers
 - wj25czxj47bu6q - acme.sh
+- bban160 - Matrix Authentication Service
 
 User mapping table for containers can be founded [here](https://github.com/Polarix-Containers/.github/blob/main/USER_MAPPING.md).
