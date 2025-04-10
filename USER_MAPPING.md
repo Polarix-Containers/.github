@@ -17,6 +17,8 @@
 | Postgres                       | 200012:200012    |                                               |
 | Stirling-PDF                   | 200013:200013    |                                               |
 | Matrix Authentication Service  | 200014:200014    |                                               |
+| Certspotter                    | 200015:200015    |                                               |
+| phpMyAdmin                     | 200016:200016    |                                               |
 | NGINX Unprivileged             | 101:101          | Upstream default - will change in the future. |
 | Element                        | 101:101          | Inherited from NGINX Unprivileged.            |
 | acme.sh                        |                  | Privileged - upstream default.                |
