@@ -6,7 +6,7 @@ Our number one priority is vulnerability patching. We will ship the latest versi
 
 Maintainers:
 - TommyTran732 - all containers
-- bban160 - OAuth2 Proxy, Kanidm, ownCloud Infinite Scale, Paperless-ngx, OpenEMR, Stirling-PDF, Matrix Authentication Service, acme.sh, ntfy
+- bban160 - OAuth2 Proxy, ownCloud Infinite Scale, Paperless-ngx, OpenEMR, Stirling-PDF, Matrix Authentication Service, acme.sh, ntfy
 - wj25czxj47bu6q - acme.sh
 
 User mapping table for containers can be founded [here](https://github.com/Polarix-Containers/.github/blob/main/USER_MAPPING.md).
