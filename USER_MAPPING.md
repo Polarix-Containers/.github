@@ -20,6 +20,7 @@
 | Certspotter                    | 200015:200015    |                                               |
 | phpMyAdmin                     | 200016:200016    |                                               |
 | TimescaleDB                    | 200017:200017    |                                               |
+| Traccar                        | 200018:200018    |                                               |
 | NGINX Unprivileged             | 101:101          | Upstream default - will change in the future. |
 | Element                        | 101:101          | Inherited from NGINX Unprivileged.            |
 | acme.sh                        |                  | Privileged - upstream default.                |
