@@ -15,7 +15,6 @@
 | Valkey                            | 200010:200010    |                                               |
 | MariaDB/MariaDB UBI               | 200011:200011    |                                               |
 | Postgres                          | 200012:200012    |                                               |
-| Stirling-PDF                      | 200013:200013    |                                               |
 | Matrix Authentication Service     | 200014:200014    |                                               |
 | Certspotter                       | 200015:200015    |                                               |
 | Matrix User Verification Service  | 200016:200016    |                                               |
