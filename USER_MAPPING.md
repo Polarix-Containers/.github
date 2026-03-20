@@ -25,6 +25,7 @@
 | Opensearch                        | 200021:200021    |                                               |
 | acme.sh                           | 200022:200022    |                                               |
 | FerretDB-DocumentDB               | 200023:200023    |                                               |
+| ClamAV                            | 200024:200024    |                                               |
 | NGINX Unprivileged                | 101:101          | Upstream default - will change in the future. |
 | Element                           | 101:101          | Inherited from NGINX Unprivileged.            |
 | acme.sh                           |                  | Privileged - upstream default.                |
